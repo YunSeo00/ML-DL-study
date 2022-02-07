@@ -7,4 +7,4 @@
 - [6장. 결정 트리](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/6%EC%9E%A5%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC.ipynb)
 - [7장. 앙상블 학습과 랜덤 포레스트](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/7%20%EC%95%99%EC%83%81%EB%B8%94%20%ED%95%99%EC%8A%B5%EA%B3%BC%20%EB%9E%9C%EB%8D%A4%20%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8.ipynb)
 - [8장. 차원 축소](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/8.%20%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C.ipynb)
-- [9장. 비지도 학습](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/9.%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.ipynb)
+- [9장. 비지도 학습](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%95%B8%EC%A6%88%EC%98%A8_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/9.%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.ipynb)  
