@@ -1,7 +1,5 @@
 # Machine Learning & Deep Learning study 자료 모음
 
-### 비즈니스 애널리틱스를 위한 데이터 마이닝
-
 
 ### 파이썬 라이브러리를 활용한 머신러닝
 - [4장.데이터 표현과 특성 공학](https://github.com/YunSeo00/ML-DL-study/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/4%EC%9E%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%EA%B3%BC%20%ED%8A%B9%EC%84%B1%EA%B3%B5%ED%95%99.ipynb)
@@ -12,3 +10,15 @@
 - [3장.신경망 시작하기](https://github.com/YunSeo00/deeplearning-study/blob/main/%EC%BC%80%EB%9D%BC%EC%8A%A4_%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%94%A5%EB%9F%AC%EB%8B%9D/3_%EC%8B%A0%EA%B2%BD%EB%A7%9D_%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0.ipynb)
 - [4장.머신러닝의 기본 요소](https://github.com/YunSeo00/DeepLearning-study/blob/main/%EC%BC%80%EB%9D%BC%EC%8A%A4_%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%94%A5%EB%9F%AC%EB%8B%9D/4%EC%9E%A5_%EB%A8%B8%EC%8B%A0_%EB%9F%AC%EB%8B%9D%EC%9D%98_%EA%B8%B0%EB%B3%B8_%EC%9A%94%EC%86%8C.ipynb)
 - [5장.컴퓨터 비전을 위한 딥러닝](https://github.com/YunSeo00/DeepLearning-study/blob/main/%EC%BC%80%EB%9D%BC%EC%8A%A4_%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%94%A5%EB%9F%AC%EB%8B%9D/5%EC%9E%A5_%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%B9%84%EC%A0%84%EC%9D%84_%EC%9C%84%ED%95%9C_%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb)
+
+### 핸즈온 머신러닝
+- [2장. 머신러닝 프로젝트 처음부터 끝까지]()
+- [3장. 분류]()
+- [4장. 모델 훈련]()
+- [5장. 서포트 벡터 머신]()
+- [6장. 결정 트리]()
+- [7장. 앙상블 학습과 랜덤 포레스트]()
+- [8장. 차원 축소]()
+- [9장. 비지도 학습]()
+
+### 비즈니스 애널리틱스를 위한 데이터 마이닝
